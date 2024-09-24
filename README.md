@@ -52,7 +52,7 @@ A Material 3 YouTube Music client for Android
 
 ## FAQ
 
-### Q: How to scrobble music to LastFM, LibreFM, ListenBrainz or GNU FM?
+### Q: How to scrobble music to LastFM, LibreFM, ListenBrainz or GNU FM?.
 
 Use other music scrobbler apps. I
 recommend [Pano Scrobbler](https://play.google.com/store/apps/details?id=com.arn.scrobble).
